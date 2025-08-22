@@ -47,6 +47,8 @@ Key points where BANANA-LLM stands out:
 Use this Colab link:
 https://colab.research.google.com/drive/1fXtaLI70Qdm26nuRYCGvVD2muMfQaZW5?usp=sharing
 
+(We recommend updating the API to ensure greater precision. The provided key is for testing purposes only and may fail, therefore it is advised to use your own key).
+
 
 🚀 Ideal Use Cases
 
