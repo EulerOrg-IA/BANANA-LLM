@@ -4,12 +4,6 @@ BANANA-LLM is a cutting-edge language model designed for developers, researchers
 
 Its flexible, lightweight design allows easy integration into existing workflows, adaptation for specific tasks, and rapid prototyping or production deployment. Whether generating text summaries, analyzing images, or creating dynamic code solutions, BANANA-LLM delivers high efficiency without compromising performance.
 
-> Use the code from Colab to access the template or create your own solutions:
-https://colab.research.google.com/drive/1fXtaLI70Qdm26nuRYCGvVD2muMfQaZW5?usp=sharing
-
-
-
-
 ---
 
 🌟 Key Features
@@ -50,32 +44,9 @@ Key points where BANANA-LLM stands out:
 
 
 
----
-
-📦 Installation
-
-git clone https://colab.research.google.com/drive/1fXtaLI70Qdm26nuRYCGvVD2muMfQaZW5?usp=sharing
-cd BANANA-LLM
-pip install -r requirements.txt
-
-> Note: For full access to templates and code, use this Colab link:
+Use this Colab link:
 https://colab.research.google.com/drive/1fXtaLI70Qdm26nuRYCGvVD2muMfQaZW5?usp=sharing
 
-
-
-
----
-
-📝 Basic Usage
-
-from banana_llm import BananaModel
-
-model = BananaModel()
-output = model.generate("Write a detailed report on artificial intelligence in healthcare")
-print(output)
-
-
----
 
 🚀 Ideal Use Cases
 
