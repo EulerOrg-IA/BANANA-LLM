@@ -42,13 +42,17 @@ Key points where BANANA-LLM stands out:
 
 ✅ Developer-focused design for maximum productivity.
 
-
+---
 
 Use this Colab link:
 https://colab.research.google.com/drive/1fXtaLI70Qdm26nuRYCGvVD2muMfQaZW5?usp=sharing
 
 (We recommend updating the API to ensure greater precision. The provided key is for testing purposes only and may fail, therefore it is advised to use your own key).
 
+Get yours:
+https://aistudio.google.com/apikey
+
+---
 
 🚀 Ideal Use Cases
 
